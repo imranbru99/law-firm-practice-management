@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "law-firm-practice-management",
+  "description": "Law Firm Practice Management — Professional Services Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Law firm system for matters, hearings, documents, billing, and client portals. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "professional-services",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/law-firm-practice-management"
+}
